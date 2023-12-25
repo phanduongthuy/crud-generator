@@ -32,7 +32,7 @@
     {
         "psr-4":
         {
-            "Thuypd\\crudgen\\": "src/"
+            "Thuypd\\Crudgen\\": "src/"
         }
     },
     "extra":
@@ -41,7 +41,7 @@
         {
             "providers":
             [
-                "Thuypd\\crudgen\\CrudgenServiceProvider"
+                "Thuypd\\Crudgen\\CrudgenServiceProvider"
             ]
         }
     }
